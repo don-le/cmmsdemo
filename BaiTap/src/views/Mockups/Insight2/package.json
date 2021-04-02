@@ -1,0 +1,10 @@
+{
+    "name": "Insight2",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./Insight2.js",
+    "dependencies": {
+      "classnames": "^2.2.6"
+    }
+  }
+  
